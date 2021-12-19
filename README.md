@@ -3,4 +3,4 @@
 
 ~step2: now we will open the file and write an alias commmand that can open the "VS",`vim ./zhsrc` then write this `alias code="open -a 'Visual Studio Code'"`and close the vim window `:x || wq`
   
-  NOW IF YOU TRT TO USE CODE COMMAND IT WILL WORK WITH OUT ANY PROBLEM
+  NOW IF YOU TRY TO USE CODE COMMAND IT WILL WORK WITH OUT ANY PROBLEM
